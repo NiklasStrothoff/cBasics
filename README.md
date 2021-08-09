@@ -1,2 +1,2 @@
-# cBasics
-cBasicsPractice
+# cppBasics
+cppBasicsPractice
